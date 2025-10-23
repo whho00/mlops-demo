@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/whho/IdeaProjects/mlops-demo/mlruns/0/280ceab93b9b4a8eb711c9704aae5dd1/artifacts
+end_time: 1761228161544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 280ceab93b9b4a8eb711c9704aae5dd1
+run_name: rogue-shrike-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761228161502
+status: 3
+tags: []
+user_id: whho

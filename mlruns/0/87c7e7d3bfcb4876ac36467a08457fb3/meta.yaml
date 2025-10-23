@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/whho/IdeaProjects/mlops-demo/mlruns/0/87c7e7d3bfcb4876ac36467a08457fb3/artifacts
+end_time: 1761228423407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87c7e7d3bfcb4876ac36467a08457fb3
+run_name: orderly-stag-377
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761228423365
+status: 3
+tags: []
+user_id: whho

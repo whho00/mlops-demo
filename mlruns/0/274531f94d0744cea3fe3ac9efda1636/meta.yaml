@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/whho/IdeaProjects/mlops-demo/mlruns/0/274531f94d0744cea3fe3ac9efda1636/artifacts
+end_time: 1761228115144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 274531f94d0744cea3fe3ac9efda1636
+run_name: fearless-conch-185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761228115105
+status: 3
+tags: []
+user_id: whho

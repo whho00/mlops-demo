@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/whho/IdeaProjects/mlops-demo/mlruns/0/8d62a7d46f9b45be85fd4dd3dbec3873/artifacts
+end_time: 1761228112364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d62a7d46f9b45be85fd4dd3dbec3873
+run_name: colorful-steed-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761228112320
+status: 3
+tags: []
+user_id: whho

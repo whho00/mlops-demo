@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/whho/IdeaProjects/mlops-demo/mlruns/0/61b9ee3ff9aa43c58ca9929e2ec6bdc3/artifacts
+end_time: 1761228122806
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61b9ee3ff9aa43c58ca9929e2ec6bdc3
+run_name: fortunate-shrew-167
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761228122689
+status: 3
+tags: []
+user_id: whho

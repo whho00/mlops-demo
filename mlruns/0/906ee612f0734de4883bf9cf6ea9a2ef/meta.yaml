@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/whho/IdeaProjects/mlops-demo/mlruns/0/906ee612f0734de4883bf9cf6ea9a2ef/artifacts
+end_time: 1761227877810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 906ee612f0734de4883bf9cf6ea9a2ef
+run_name: wistful-ant-294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761227877767
+status: 3
+tags: []
+user_id: whho

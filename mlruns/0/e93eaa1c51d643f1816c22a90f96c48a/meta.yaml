@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/whho/IdeaProjects/mlops-demo/mlruns/0/e93eaa1c51d643f1816c22a90f96c48a/artifacts
+end_time: 1761227903576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e93eaa1c51d643f1816c22a90f96c48a
+run_name: caring-perch-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761227903536
+status: 3
+tags: []
+user_id: whho

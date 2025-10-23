@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/whho/IdeaProjects/mlops-demo/mlruns/0/42dd110e90274952af6300be1214b16b/artifacts
+end_time: 1761228440317
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 42dd110e90274952af6300be1214b16b
+run_name: sassy-seal-810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761228440264
+status: 3
+tags: []
+user_id: whho
